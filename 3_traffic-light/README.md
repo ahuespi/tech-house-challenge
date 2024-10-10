@@ -8,17 +8,21 @@ You will find more info on the followin link
 
 [Traffic ligths]: <https://www.codewars.com/kata/5d230e119dd9860028167fa5>
 
+### Requirements
+
+- NodeJS >= 18.17.0
+- npm >= 9.6.7
+
 ### How show the challenge
 
 1. Clone the repository
-2. Open `index.html` on your browser
+2. npm install
+3. npm run dev
 
 ### Technologies used
 
-- HTML
-- SCSS
-- JavaScript
-- jQuery
+- React
+- TailwindCSS
 
 ### Develop by
 
