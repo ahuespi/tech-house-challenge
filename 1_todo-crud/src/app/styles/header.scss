@@ -1,0 +1,10 @@
+.active {
+    &::after {
+        content: "";
+        border-bottom: 4px solid #639605;
+        width: 100%;
+        display: block;
+        border-top-left-radius: 3px;
+        border-top-right-radius: 3px;
+    }
+}
