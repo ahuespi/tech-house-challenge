@@ -1,10 +1,11 @@
 import { ReactElement } from "react";
+import { ITask } from "../page";
 
 export const Card = ({
     title,
     children,
     description
-}: Item & { children: ReactElement }) => {
+}: ITask & { children: ReactElement }) => {
     return (
         <div className="flex justify-between gap-2 bg-white border border-1 rounded shadow-sm px-4 py-5 my-4">
             <div className="flex flex-col max-w-80">
