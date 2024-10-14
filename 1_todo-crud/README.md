@@ -21,6 +21,8 @@
 3. Run `npm run dev`
 4. Open `http://localhost:3000/` on your browser
 
+Or open in [Chrome](https://tech-house-challenge.vercel.app/)
+
 ### Technologies used
 
 - NextJs
