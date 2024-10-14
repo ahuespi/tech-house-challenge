@@ -19,7 +19,7 @@ You will find more info on the followin link
 2. npm install
 3. npm run dev
 
-Or open in [Vercel](https://3-traffic-light.vercel.app/)
+Or open in [Vercel](https://tech-house-challenge-traffic-light.vercel.app/)
 
 ### Technologies used
 
